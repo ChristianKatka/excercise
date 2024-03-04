@@ -8,7 +8,7 @@ Utilize the 'books.json' file to simulate backend data for your application. You
 
 If you opt to use Angular-UI as the foundation for your development, simply navigate to the 'angular-ui' directory and run 'npm install' followed by 'npm run'.
 
-You can find inspiration for the UI/UX from [dribble.com](https://dribbble.com/search/library-app) 
+You can find inspiration for the UI/UX from [dribble](https://dribbble.com/) 
 <img width="800" alt="Screenshot 2024-03-04 at 13 20 06" src="https://github.com/ChristianKatka/excercise/assets/42738047/11d7e554-8030-4b02-9826-79a7947e3688">
 
 
